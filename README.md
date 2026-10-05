@@ -51,6 +51,9 @@ The `Quantity` variable was selected for statistical analysis.
 
 The mean represents the average quantity ordered. The median indicates the middle value of the dataset, while the mode represents the most frequently occurring quantity.
 
+
+<img width="390" height="167" alt="Screenshot 2026-10-05 203429" src="https://github.com/user-attachments/assets/b7e35332-7d7f-4e45-9f82-8b907f38a043" />
+
 ---
 
 ## 📈 Task 2: Variance & Standard Deviation
@@ -63,6 +66,9 @@ Variance and standard deviation were calculated using the `Quantity` variable.
 ### Interpretation
 
 The standard deviation indicates how much the quantity values vary from the average quantity.
+
+
+<img width="428" height="73" alt="Screenshot 2026-10-05 203815" src="https://github.com/user-attachments/assets/95ac067c-69aa-46e6-acbb-e4b02a203f5b" />
 
 ---
 
@@ -81,6 +87,8 @@ The probability of randomly selecting an order from the **Technology** category 
 
 - Probability: **35.3%**
 
+<img width="497" height="98" alt="Screenshot 2026-10-05 204103" src="https://github.com/user-attachments/assets/34cb188b-e2d0-4e94-814f-72b7f00a93f3" />
+
 ---
 
 ## 🔍 Task 4: Outlier Detection
@@ -95,6 +103,8 @@ The **IQR (Interquartile Range)** method was used to identify potential outliers
 - Detected Outliers: **0**
 
 No Sales values were identified as outliers using the IQR method.
+
+<img width="316" height="118" alt="Screenshot 2026-10-05 204547" src="https://github.com/user-attachments/assets/e091005c-deaa-45b2-9012-9618416f59ab" />
 
 ---
 
