@@ -120,6 +120,13 @@ The following visualizations were created using Matplotlib:
 
 These visualizations were used to understand sales trends, category performance, profit distribution, and relationships between variables.
 
+<img width="713" height="470" alt="Line Chart" src="https://github.com/user-attachments/assets/e68b3365-618a-4f16-8a20-a5e0746ad834" />
+<img width="721" height="470" alt="Bar Chart" src="https://github.com/user-attachments/assets/2d14cd7a-996b-4731-814f-995d45524719" />
+<img width="985" height="986" alt="Pair Plot" src="https://github.com/user-attachments/assets/e8bc57a8-fceb-4a72-ad04-c75617e3f95d" />
+<img width="686" height="470" alt="Histogram" src="https://github.com/user-attachments/assets/2b0a2deb-f39a-4caa-a733-4858e5093f32" />
+<img width="698" height="470" alt="Scatter Plot" src="https://github.com/user-attachments/assets/639cf65e-578d-4e04-bd4c-e4ee023baaeb" />
+
+
 ---
 
 # 📉 Task 6: Seaborn Visualization
@@ -132,6 +139,11 @@ The following Seaborn visualizations were created:
 4. Pair Plot – Numerical Variables
 
 These visualizations helped identify patterns, distributions, and relationships among the variables.
+
+<img width="695" height="470" alt="Count Plot" src="https://github.com/user-attachments/assets/1d42c1de-86e6-4b4c-86ce-423857aee68d" />
+<img width="698" height="470" alt="Box Plot" src="https://github.com/user-attachments/assets/0bd5c1ad-a6e3-482b-9a58-0b8cf1ec0024" />
+<img width="625" height="528" alt="HeatMap" src="https://github.com/user-attachments/assets/40a433ea-7449-4845-ac35-f0ecd88969af" />
+<img width="985" height="986" alt="Pair Plot" src="https://github.com/user-attachments/assets/80774333-48fb-4836-a272-34d175491239" />
 
 ---
 
@@ -157,6 +169,9 @@ The dataset was checked for:
 - Invalid numerical values
 
 No missing values or duplicate records were found. The dataset was prepared for further analysis.
+
+<img width="596" height="437" alt="Screenshot 2026-10-05 210145" src="https://github.com/user-attachments/assets/70a73396-3c66-4320-ad20-ed9ff487786a" />
+<img width="622" height="607" alt="Screenshot 2026-10-05 210156" src="https://github.com/user-attachments/assets/85e7805a-ffcf-4163-a2a8-0a66b5ca3fc2" />
 
 ---
 
@@ -184,6 +199,8 @@ Correlation analysis was performed on:
 2. **Central region has the highest sales** among the regions in the dataset.
 
 3. **Sales and Profit have a very weak positive correlation (0.054)**, indicating that sales alone do not strongly determine profitability.
+
+<img width="675" height="651" alt="Screenshot 2026-10-05 211203" src="https://github.com/user-attachments/assets/b2278421-c0f9-4e43-9021-28b11a17cdf1" />
 
 ---
 
