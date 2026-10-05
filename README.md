@@ -122,7 +122,7 @@ These visualizations were used to understand sales trends, category performance,
 
 <img width="713" height="470" alt="Line Chart" src="https://github.com/user-attachments/assets/e68b3365-618a-4f16-8a20-a5e0746ad834" />
 <img width="721" height="470" alt="Bar Chart" src="https://github.com/user-attachments/assets/2d14cd7a-996b-4731-814f-995d45524719" />
-<img width="985" height="986" alt="Pair Plot" src="https://github.com/user-attachments/assets/e8bc57a8-fceb-4a72-ad04-c75617e3f95d" />
+<img width="630" height="581" alt="Pie Chart" src="https://github.com/user-attachments/assets/65f02251-54b8-4b24-95ea-45aa994c12c2" />
 <img width="686" height="470" alt="Histogram" src="https://github.com/user-attachments/assets/2b0a2deb-f39a-4caa-a733-4858e5093f32" />
 <img width="698" height="470" alt="Scatter Plot" src="https://github.com/user-attachments/assets/639cf65e-578d-4e04-bd4c-e4ee023baaeb" />
 
